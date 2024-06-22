@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashishp05/newsapp/static/css/main.f855e6bc.css",
+    "main.js": "/ashishp05/newsapp/static/js/main.88f6e43b.js",
+    "index.html": "/ashishp05/newsapp/index.html",
+    "main.f855e6bc.css.map": "/ashishp05/newsapp/static/css/main.f855e6bc.css.map",
+    "main.88f6e43b.js.map": "/ashishp05/newsapp/static/js/main.88f6e43b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.88f6e43b.js"
+  ]
+}
